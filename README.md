@@ -1,2 +1,3 @@
 # Tribute-page
-Tribute page for the Albert Einstein. 
+Tribute page of Albert Einstein. 
+https://rohit-shah840.github.io/Tribute-page/
