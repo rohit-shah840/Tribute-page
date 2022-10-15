@@ -89,7 +89,7 @@ li {
 }
 
 blockquote {
-  font-style: normal;
+  font-style: italic;
   max-width: 545px;
   margin: 0 auto 50px auto;
   text-align: left;
